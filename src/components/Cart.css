@@ -1,0 +1,8 @@
+.cart {
+  padding: 1rem;
+  background-color: #f8f9fa;
+}
+.cart-item {
+  border-bottom: 1px solid #ccc;
+  padding: 0.5rem 0;
+}
